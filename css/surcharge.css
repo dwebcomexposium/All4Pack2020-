@@ -7,3 +7,10 @@
 .socials {
     width: 50%;
 }
+.partner h1 {
+    padding-top: 11rem;
+}
+.partner .block.block-page.breadcrumb-nav {
+    position: relative;
+    bottom: 26rem;
+}
