@@ -2879,7 +2879,7 @@ button.js-mySelection + a:hover { margin-left: 11px;  }
     border: 2px solid #6cc1bd;
     margin-right: .5rem;
     -webkit-transform: rotate(0);
-    transform: rotate(0;
+    transform: rotate(0);
 }
 
 .page-events .site-wrapper  { margin: 30px 0; }
@@ -2923,4 +2923,6 @@ body.page-events #zone3 {display: none; }
 .profil .block-content { width: 600px; padding-left: 60px; }
 
 html:lang(en) .profil .inside:before { background: url(images/all4pack-report-2022-en.jpg) center no-repeat; }
+
+html {scroll-behavior:smooth}
 
