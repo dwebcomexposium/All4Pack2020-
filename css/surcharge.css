@@ -14,3 +14,5 @@ body.partner .block.block-page.breadcrumb-nav {
     position: relative;
     bottom: 26rem;
 }
+
+html {scroll-behavior:smooth}
