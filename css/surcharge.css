@@ -16,3 +16,7 @@ body.partner .block.block-page.breadcrumb-nav {
 }
 
 html {scroll-behavior:smooth}
+
+.article-content figure img {
+    width: auto;
+}
