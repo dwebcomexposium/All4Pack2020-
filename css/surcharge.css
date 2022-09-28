@@ -20,3 +20,9 @@ html {scroll-behavior:smooth}
 .article-content figure img {
     width: auto;
 }
+.article-content table tbody tr:nth-child(odd) {
+    background-color: #fff;
+}
+.article-content figcaption {
+    display: none;
+}
