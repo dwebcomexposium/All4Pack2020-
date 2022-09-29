@@ -2857,7 +2857,7 @@ button.js-mySelection + a:hover { margin-left: 11px;  }
 .page-events .slider { padding: 0; display: flex; justify-content: center; padding: 20px 0; }
 .page-events .slider .la-item-img { border-radius: 20px; margin: 0; padding: 0; }
 .event-view-full .mod-catal h1, .catal-ex-details .mod-catal h1 {text-align: left!important; }
-.mod-catal .btn-primary.ac-js-switcher-remote {background: none!important; }
+/*.mod-catal .btn-primary.ac-js-switcher-remote {background: none!important; }*/
 
 
 .event-type-li:before, .persons-event:before  {
@@ -2865,7 +2865,7 @@ button.js-mySelection + a:hover { margin-left: 11px;  }
     content: '';
     display: inline-block;
     vertical-align: middle;
-    border: 3px solid #6cc1bd!important;
+    border: 3px solid #5ead6f!important;
     margin-right: .5rem;
     -webkit-transform: rotate(0);
     -ms-transform: rotate(0);
@@ -2876,10 +2876,10 @@ button.js-mySelection + a:hover { margin-left: 11px;  }
     content: '';
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid #6cc1bd;
+    border: 2px solid #5ead6f;
     margin-right: .5rem;
-    -webkit-transform: rotate(0);
-    transform: rotate(0);
+    -webkit-transform: rotate(0)!important;
+    transform: rotate(0)!important;
 }
 
 .page-events .site-wrapper  { margin: 30px 0; }
@@ -2925,4 +2925,3 @@ body.page-events #zone3 {display: none; }
 html:lang(en) .profil .inside:before { background: url(images/all4pack-report-2022-en.jpg) center no-repeat; }
 
 html {scroll-behavior:smooth}
-
