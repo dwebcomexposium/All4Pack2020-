@@ -2556,7 +2556,7 @@ a.btn-primary.btn-medium:hover {background: none; padding-top: 4px; }
 .mod-catal.catal-other-prd .catal-other-ex-actions,
 .mod-catal.catal-other-prd .catal-other-prd-actions { display : block; display : none; margin : 0; position : inherit; transform : translateY(-100%); width : 100%; }
 .mod-catal.catal-ex-details .edito,
-.mod-catal.catal-pr-details .edito { max-width : 100%; overflow : hidden; }
+.mod-catal.catal-pr-details .edito { max-width : 100%; overflow : visible; }
 
 
 
@@ -2925,3 +2925,7 @@ body.page-events #zone3 {display: none; }
 html:lang(en) .profil .inside:before { background: url(images/all4pack-report-2022-en.jpg) center no-repeat; }
 
 html {scroll-behavior:smooth}
+
+.mod-catal .catal-ex-item-buttons, .mod-catal .catal-ex-item-buttons-small { margin-bottom: 20px; }
+
+.ac-add-to-calendar {top: 35px;  }
