@@ -26,3 +26,6 @@ html {scroll-behavior:smooth}
 .article-content figcaption {
     display: none;
 }
+.article-content table td {
+    border: 0px solid #e3e9ea;
+}
