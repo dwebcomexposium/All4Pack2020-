@@ -1136,7 +1136,7 @@ body.front .is-stuck.site-banner { padding: 31px 0 0; }
 
 .profil h2 { margin-top: -5px; margin-bottom: 16px; font-size: 39px; line-height: 1.16; color: #18274E; font-weight: 900; text-transform: uppercase; }
 .profil h2:last-child { margin-bottom: 0; }
-.profil p { margin-bottom: 23px; font-size: 20px; line-height: 1.5; }
+.profil p { margin-bottom: 23px; font-size: 16px; line-height: 1.5; }
 .profil p:last-child { margin-bottom: 0; }
 .profil .lien1 { padding: 11px 38px; font-size: 18px; line-height: 1.23; }
 .profil .list-services-secondary { margin-top: 33px; }
