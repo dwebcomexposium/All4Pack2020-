@@ -2922,8 +2922,6 @@ body.page-events #zone3 {display: none; }
 /*.profil .inside:before { content: ''; display: block; width: 480px; height: 480px; background: url(images/all4pack-report-2022-fr.jpg) center no-repeat; background-size: cover; }*/
 .profil .block-content { width: 600px; padding-left: 60px; }
 
-html:lang(en) .profil .inside:before { background: url(images/all4pack-report-2022-en.jpg) center no-repeat; }
-
 html {scroll-behavior:smooth}
 
 .mod-catal .catal-ex-item-buttons, .mod-catal .catal-ex-item-buttons-small { margin-bottom: 20px; }
