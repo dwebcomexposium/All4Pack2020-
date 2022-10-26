@@ -32,3 +32,22 @@ html {scroll-behavior:smooth}
 .EmbedWidgetWrapper {
     max-width: 1200px;
 }
+.EmbedWidgetWrapper .EmbedWidgetWrapper-wrapper .EmbedWidgetWrapper-title h2 {
+    color: #18274e;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 900;
+}
+.EmbedWidgetWrapper .EmbedWidgetWrapper-wrapper .EmbedWidgetWrapper-action .EmbedWidgetWrapper-btn {
+    margin: 30000px auto auto;
+    width: 200px;
+    background: #5ead6f;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: attractivecond,sans-serif;
+    text-transform: uppercase;
+    border-radius: 30px;
+    line-height: 1.23;
+    letter-spacing: .03rem;
+}
