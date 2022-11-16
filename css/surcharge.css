@@ -51,3 +51,10 @@ html {scroll-behavior:smooth}
     line-height: 1.23;
     letter-spacing: .03rem;
 }
+.block.block-page.edito.profil2.aos-init.aos-animate {
+    text-align: center;
+    line-height: 35px;
+}
+.block.block-page.edito.profil2.aos-init.aos-animate a.externe.lien1 {
+    margin-top: 22px;
+}
